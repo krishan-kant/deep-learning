@@ -1,2 +1,2 @@
 # deep-learning
-Simple deep learning models.
+Simple deep learning models on ANN and CNN.
